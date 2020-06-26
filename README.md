@@ -1,4 +1,4 @@
-# Operating System 2017 [NCTU]
+# Operating System 2017
 NCTU CS Introduction to Operating System assignments
 
 ## [HW1] Processes
